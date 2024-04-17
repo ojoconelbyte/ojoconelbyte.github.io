@@ -1,8 +1,8 @@
 ---
 layout: author
-photo: /assets/img/uploads/profile.png
+photo: /assets/img/uploads/profile.jpg
 name: ojoconelbyte
-display_name: Ojo cxn 3l Byte
+display_name: xjxcxn3l | Juan Cruz Lado 
 position: Creador 
 bio: Professional Backend Developer | CyberSec enthusiast, pentesting.
 github_username: juancruzlado

@@ -1,13 +1,13 @@
 ---
 date: 2024-04-16 22:54:50
 layout: post
-title: "HTB WriteUp Networked"
+title: "HTB WriteUp - Networked"
 subtitle: Guia para resolver esta maquina Linux - Easy de HackTheBox
 description: Maquina Linux Easy de HTB
-image:
+image: https://miro.medium.com/v2/resize:fit:1400/1*qbdMPni023n9FapKdgv24A.png
 optimized_image:
-category:
-tags:
+category: WriteUp|Resolucion
+tags: HTB
 author: ojoconelbyte
 paginate: false
 ---
