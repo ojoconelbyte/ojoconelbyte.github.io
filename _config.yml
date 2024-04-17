@@ -15,10 +15,6 @@ menu:
     url: /
   - title: About
     url: /about
-  - title: Contact
-    url: /contact
-  - title: Feed
-    url: /feed.xml
 email: jcruzlado@gmail.com
 # See: https://disqus.com/
 disqus_username: disqus_username
@@ -29,12 +25,12 @@ formspree_form_id: formspree_form_id
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+github_username: juancruzlado
+facebook_username:
+twitter_username:
+instagram_username:
+linkedin_username: juan-cruz-lado-14b399238
+medium_username:
 
 
 # Posts Settings
@@ -110,4 +106,4 @@ exclude: [
 ]
 
 # Theme
-version: v3.1.2
+version: v1.0
