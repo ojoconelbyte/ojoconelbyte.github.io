@@ -4,7 +4,7 @@ layout: post
 title: "Y el Futuro de la ciberseguridad?"
 subtitle: Reflexiones sobre la industria, nuestro rol y su evolucion de cara al futuro
 description: discusion sobre el futuro de la industria
-image:
+image: https://sectricity.com/wp-content/uploads/2023/05/Hacker-Cyber-Security-Internet-Sectricity.jpg
 optimized_image:
 category: Discusion
 tags:
