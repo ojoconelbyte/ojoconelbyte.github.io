@@ -27,7 +27,7 @@ paginate: false
 - Explotación de crontabs y network configuration script. 
 
 ## Herramientas utilizadas
-- [[nmap]]
+- nmap
 
 ---
 
@@ -287,4 +287,4 @@ Esta box estuvo muy buena y la verdad que nos muestra lo fácil que puede ser en
 La dificultad va a ser variable con la experiencia previa del que la intente resolver a esta máquina, pero esta sería una dificultad Fácil, las Medias y Dificiles se nota mucho el salto en complejidad, aunque sea a mi parecer. 
 
 Aqui les dejo mi trofeo/achievement!
-https://www.hackthebox.com/achievement/machine/1449292/203
+<https://www.hackthebox.com/achievement/machine/1449292/203>
