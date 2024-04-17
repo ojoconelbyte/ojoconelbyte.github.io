@@ -280,8 +280,8 @@ df701510e158c83aeeb910f877df1f59
 ---
 
 # Flags
-user.txt 01cbd629d379730a4e597d424dba1568
-root.txt df701510e158c83aeeb910f877df1f59
+- user.txt 01cbd629d379730a4e597d424dba1568
+- root.txt df701510e158c83aeeb910f877df1f59
 # Cerrando
 Esta box estuvo muy buena y la verdad que nos muestra lo fácil que puede ser entrar si no se sanitizan inputs, ya sea el file upload bypass, ya sea hacer un chequeo de que no se leen comas por bash, y por ultimo saber que version y que Sistema Operativo elegir si vamos a tener algo hosteado en el. 
 La dificultad va a ser variable con la experiencia previa del que la intente resolver a esta máquina, pero esta sería una dificultad Fácil, las Medias y Dificiles se nota mucho el salto en complejidad, aunque sea a mi parecer. 
