@@ -4,7 +4,7 @@ layout: post
 title: "HTB WriteUp - Networked"
 subtitle: Guia para resolver esta maquina Linux - Easy de HackTheBox
 description: Maquina Linux Easy de HTB
-image: https://miro.medium.com/v2/resize:fit:1400/1*qbdMPni023n9FapKdgv24A.png
+image: /assets/img/uploads/networked.png
 optimized_image:
 category: pen-testing
 tags: HTB Easy
