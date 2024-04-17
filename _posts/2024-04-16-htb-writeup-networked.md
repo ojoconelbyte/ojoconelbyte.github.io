@@ -6,8 +6,8 @@ subtitle: Guia para resolver esta maquina Linux - Easy de HackTheBox
 description: Maquina Linux Easy de HTB
 image: https://miro.medium.com/v2/resize:fit:1400/1*qbdMPni023n9FapKdgv24A.png
 optimized_image:
-category: WriteUp|Resolucion
-tags: HTB
+category: pen-testing
+tags: HTB Easy
 author: ojoconelbyte
 paginate: false
 ---
