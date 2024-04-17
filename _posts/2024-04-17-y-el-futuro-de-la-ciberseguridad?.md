@@ -7,7 +7,7 @@ description: discusion sobre el futuro de la industria
 image: https://sectricity.com/wp-content/uploads/2023/05/Hacker-Cyber-Security-Internet-Sectricity.jpg
 optimized_image:
 category: Discusion
-tags:
+tags: Charla Just-Chatting
 author: ojoconelbyte
 paginate: false
 ---
