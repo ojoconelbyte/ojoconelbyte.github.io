@@ -11,9 +11,8 @@ permalink: /about/
 
 # About
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Hola! soy Juan de ojoconelbyte, hago contenido (blogs escritos y videos) sobre 
+ciberseguridad, charlas generales, contenidos tecnicos sobre desarrollo 
+de software orientado al Backend, herramientas utiles y entornos de trabajo (tanto para desarrollar como para pentesting)
+y una recopilacion de lo que vaya aprendiendo a medida que avanzamos en estas 
+areas interesantes de la informatica. 

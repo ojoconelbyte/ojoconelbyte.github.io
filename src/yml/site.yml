@@ -1,5 +1,5 @@
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
+name: Ojoconelbyte
+title: Ojoconelbyte | Un blog de CyberSec y Programacion
 description: Jekflix is a template for Jekyll inspired by Netflix and made by
   Thiago Rossener.
 tags:
@@ -18,7 +18,7 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
+email: jcruzlado@gmail.com
 # See: https://disqus.com/
 disqus_username: disqus_username
 # Contact Form Setting
